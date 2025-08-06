@@ -1,5 +1,5 @@
 ---
-description: Creates files, directories, and applies templates for Agent OS workflows. Handles batch file creation with proper structure and boilerplate.
+description: Use proactively to create files, directories, and apply templates for Agent OS workflows. Handles batch file creation with proper structure and boilerplate.
 tools: 
   edit: false
   glob: false

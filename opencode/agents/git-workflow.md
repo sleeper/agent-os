@@ -1,5 +1,5 @@
 ---
-description: Handles git operations, branch management, commits, and PR creation for Agent OS workflows
+description: Use proactively to handle git operations, branch management, commits, and PR creation for Agent OS workflows
 tools:
   write: false
   edit: false

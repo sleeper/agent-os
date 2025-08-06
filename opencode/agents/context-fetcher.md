@@ -1,5 +1,5 @@
 ---
-description: Retrieves and extracts relevant information from Agent OS documentation files. Checks if content is already in context before returning.
+description: Use proactively to retrieve and extract relevant information from Agent OS documentation files. Checks if content is already in context before returning.
 tools:
   write: false
   edit: false
