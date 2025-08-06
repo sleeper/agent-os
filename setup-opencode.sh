@@ -1,4 +1,4 @@
- #!/bin/bash
+ #!/bin/bash -x
 
 # Agent OS opencode Setup Script
 # This script installs Agent OS commands for opencode
@@ -25,7 +25,8 @@ if [ ! -d "$HOME/.agent-os/instructions" ] || [ ! -d "$HOME/.agent-os/standards"
 fi
 
 # Base URL for raw GitHub content
-BASE_URL="https://raw.githubusercontent.com/buildermethods/agent-os/main"
+#BASE_URL="https://raw.githubusercontent.com/buildermethods/agent-os/main"
+BASE_URL="https://raw.githubusercontent.com/sleeper/agent-os/opencode"
 
 # Create directories
 echo "📁 Creating directories..."
@@ -75,7 +76,7 @@ echo ""
 echo "📍 Files installed to:"
 echo "   ~/.config/opencode/agents/  - opencode specialized subagents"
 echo "   ./opencode.json             - opencode configuration"
-echo "   ./AGENTS.md                 - opencode rules
+echo "   ./AGENTS.md                 - opencode rules"
 echo ""
 echo "Next steps:"
 echo ""

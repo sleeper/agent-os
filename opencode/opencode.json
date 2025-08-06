@@ -3,16 +3,13 @@
   "mode": {
     "analyze-product": {
       "prompt": "{file:~/.agent-os/instructions/analyze-product.md}"
-   },
-   {
-      "create-spec.md": {
+    },
+    "create-spec.md": {
       "prompt": "{file:~/.agent-os/instructions/create-spec.md}"
-   },
-   {
+    },
     "plan-product.md": {
       "prompt": "{file:~/.agent-os/instructions/plan-product.md}"
-   },
-   {
+    },
     "execute-tasks.md": {
       "prompt": "{file:~/.agent-os/instructions/execute-tasks.md}"
    }
